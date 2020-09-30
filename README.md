@@ -8,6 +8,6 @@ Check out this work and more on my [Instagram](https://www.instagram.com/anna.pt
 
 Organization of this repo inspired by [erdavids](https://github.com/erdavids/Generative-Art).
 
-# ProjectName / [Repo](REPO LINK)
+# Probabilistic Cacti / [Repo](https://github.com/annaptasznik/probabilistic-cacti)
 
 <p align="center"><img src="EXAMPLE IMAGE SOURCE"></p>
