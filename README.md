@@ -4,10 +4,10 @@ The following is a collection of some of my generative art projects. Each projec
 
 My hope is for others to enjoy, find inspiration, and learn from these projects.
 
-Check out this work and more on my [Instagram](https://www.instagram.com/anna.ptasznik) or contact me at annaptasznikgeo@gmail.com.
+I can be contacted at annaptasznikgeo@gmail.com.
 
 Organization of this repo inspired by [erdavids](https://github.com/erdavids/Generative-Art).
 
-# Probabilistic Cacti / [Repo](https://github.com/annaptasznik/probabilistic-cacti)
+# GAN-Noir / [Repo](https://github.com/annaptasznik/GAN-Noir)
 
-<p align="center"><img src="EXAMPLE IMAGE SOURCE"></p>
+<p align="center"><img src="https://github.com/annaptasznik/GAN-Noir/blob/main/examples/CoverImage-GAN-Noir.jpg"></p>
