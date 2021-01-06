@@ -4,7 +4,7 @@ The following is a collection of some of my generative art projects. Each projec
 
 My hope is for others to enjoy, find inspiration, and learn from these projects.
 
-I can be contacted at annaptasznikgeo@gmail.com.
+Feel free to reach out with any questions to annaptasznikgeo@gmail.com.
 
 Organization of this repo inspired by [erdavids](https://github.com/erdavids/Generative-Art).
 
